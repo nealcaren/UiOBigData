@@ -1,0 +1,17 @@
+name: KULeuvenBigData
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - requests
+  - pip
+  - matplotlib
+  - scikit-learn
+  - seaborn
+  - rise
+  - pyLDAvis
+  - spacy
+  - pip:
+    - requests-html
+    - afinn
+    - vaderSentiment
