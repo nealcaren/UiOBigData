@@ -1,4 +1,4 @@
-name: KULeuvenBigData
+name: UiOBigData
 channels:
   - conda-forge
 dependencies:
@@ -9,8 +9,7 @@ dependencies:
   - scikit-learn
   - seaborn
   - rise
-  - pyLDAvis
-  - spacy
+  - anaconda
   - pip:
     - requests-html
     - afinn
